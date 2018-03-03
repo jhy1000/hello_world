@@ -1,0 +1,29 @@
+Metadata-Version: 1.1
+Name: helloworld-python
+Version: 0.0.1
+Summary: Say hello to the world or to a specific person.
+Home-page: https://github.com/dwayne/helloworld-python
+Author: Dwayne Crooks
+Author-email: me@dwaynecrooks.com
+License: MIT
+Description: Hello, World!
+        =============
+        
+        A project to help me learn how to package and distribute Python packages.
+        
+        Resources
+        ---------
+        
+        - `Python Packaging User Guide <https://packaging.python.org/>`_
+        - `Setuptools <https://setuptools.readthedocs.io/en/latest/>`_
+        
+Keywords: hello helloworld
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
